@@ -16,6 +16,6 @@ s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :ta
 
 
 s.source_files = "FramWorkString","FramWorkString/**/*.{swift}"
-
+s.swift-version = "4.0"
 
 end
