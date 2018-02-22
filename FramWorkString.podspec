@@ -15,7 +15,7 @@ s.homepage = "https://github.com/Asmitaborawake/FramWorkString"
 s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :tag => "1.0.0"}
 
 
-s.source_files = "FramWorkString","FramWorkString/**/*"
-s.swift-version = "4.0"
+s.source_files = "FramWorkString","FramWorkString/**/*.{swift}"
+
 
 end
