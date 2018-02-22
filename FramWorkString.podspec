@@ -12,7 +12,7 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Dhiraj Jadhao" => "dhiraj.jadhao@innoplexus.com" }
 
 s.homepage = "https://github.com/Asmitaborawake/FramWorkString"
-s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :tag => "1.9"}
+s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :tag => "1.0.0"}
 
 s.framework = ["UIKit"]
 s.source_files = ["FramWorkString/**/*.{swift}"]
