@@ -16,6 +16,6 @@ s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :ta
 
 s.framework = ["UIKit"]
 s.source_files = ["FramWorkString/**/*.{swift}"]
-pushed_with_swift_version = '4.0'
+
 
 end
