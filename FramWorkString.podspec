@@ -8,14 +8,14 @@ s.description = "AlertBar Framework is used to show message is status bar with d
 s.summary = "AlertBar is drop in  KPlexus products show"
 s.requires_arc = true
 s.version = "1.0"
-s.license = { :type => "MIT", :file => "LICENSE" }
-s.author = { "Dhiraj Jadhao" => "dhiraj.jadhao@innoplexus.com" }
+s.license = "MIT"
+s.author = "Dhiraj Jadhao"
 
 s.homepage = "https://github.com/Asmitaborawake/FramWorkString"
 s.source = { :git => "https://github.com/Asmitaborawake/FramWorkString.git", :tag => "1.0.0"}
 
-s.framework = ["UIKit"]
-s.source_files = ["FramWorkString/**/*.{swift}"]
+
+s.source_files = "FramWorkString/**/*.{swift}"
 s.swift-version = '4.0'
 
 end
