@@ -5,7 +5,7 @@ s.platform = :ios
 s.ios.deployment_target = '9.0'
 
 s.description = "AlertBar Framework is used to show message is status bar with different options."
-s.summary = "AlertBar is drop in  KPlexus products show internet connection messages as required."
+s.summary = "AlertBar is drop in  KPlexus products show"
 s.requires_arc = true
 s.version = "1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
